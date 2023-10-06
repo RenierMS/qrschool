@@ -1,6 +1,6 @@
 # User tutorial
 
-This software is a progressive web application so you can run it in most devices including computer, mobile devices, also you will allways have the last version.
+This software is a progressive web application, alloiwing it to run on various devices, including computers and mobile devices. Additionally, you will allways have the last version.
 
 Please visit [QRSchool app](https://qrschoolapp.gestionhseq.com)
 
