@@ -1,12 +1,12 @@
 # Cli
 
 A command-line interface [CLI](https://en.wikipedia.org/wiki/Command-line_interface)
-is a means of interacting with a computer program by inputting lines of text called command-lines.
+is a method of interacting with a computer program by inputting lines of text, referred to as command-lines.
 
-We create a command line application to allow the system administration easily setup the
-environment. The following command are designed to specific tasks in the backend.
+We have developed a command line application to facilitate system administration in configuring the
+environment. The following commands are designed to specific tasks in the backend.
 
-There are two main commands wich are *db* and *cli*
+There are two main commands:*db* and *cli*
 
 ## db
 
